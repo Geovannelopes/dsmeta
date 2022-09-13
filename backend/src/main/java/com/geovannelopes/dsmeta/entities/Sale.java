@@ -8,7 +8,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-@Entity /* Tranforma a classe 'em uma entidade*/
+@Entity /* Tranforma a classe em uma entidade*/
 @Table(name = "tb_sales")
 public class Sale {
 	
